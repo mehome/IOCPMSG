@@ -1,0 +1,10 @@
+D:\MyResources\NTCPMSG\NTCPMSG\bin\Debug\4.0\NTCPMSG.dll
+D:\MyResources\NTCPMSG\NTCPMSG\bin\Debug\4.0\NTCPMSG.pdb
+D:\MyResources\NTCPMSG\NTCPMSG\obj\Debug\ResolveAssemblyReference.cache
+D:\MyResources\NTCPMSG\NTCPMSG\obj\Debug\NTCPMSG.dll
+D:\MyResources\NTCPMSG\NTCPMSG\obj\Debug\NTCPMSG.pdb
+D:\MyResources\Socket\NTCPMSG\NTCPMSG\bin\Debug\4.0\NTCPMSG.dll
+D:\MyResources\Socket\NTCPMSG\NTCPMSG\bin\Debug\4.0\NTCPMSG.pdb
+D:\MyResources\Socket\NTCPMSG\NTCPMSG\obj\Debug\ResolveAssemblyReference.cache
+D:\MyResources\Socket\NTCPMSG\NTCPMSG\obj\Debug\NTCPMSG.dll
+D:\MyResources\Socket\NTCPMSG\NTCPMSG\obj\Debug\NTCPMSG.pdb

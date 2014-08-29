@@ -1,0 +1,12 @@
+D:\MyResources\NTCPMSG\Bin\DotNet4.0\Debug\ClientTest.exe.config
+D:\MyResources\NTCPMSG\Bin\DotNet4.0\Debug\ClientTest.exe
+D:\MyResources\NTCPMSG\Bin\DotNet4.0\Debug\ClientTest.pdb
+D:\MyResources\NTCPMSG\ClientTest\obj\Debug\ResolveAssemblyReference.cache
+D:\MyResources\NTCPMSG\ClientTest\obj\Debug\ClientTest.exe
+D:\MyResources\NTCPMSG\ClientTest\obj\Debug\ClientTest.pdb
+D:\MyResources\Socket\NTCPMSG\Bin\DotNet4.0\Debug\ClientTest.exe.config
+D:\MyResources\Socket\NTCPMSG\Bin\DotNet4.0\Debug\ClientTest.exe
+D:\MyResources\Socket\NTCPMSG\Bin\DotNet4.0\Debug\ClientTest.pdb
+D:\MyResources\Socket\NTCPMSG\ClientTest\obj\Debug\ResolveAssemblyReference.cache
+D:\MyResources\Socket\NTCPMSG\ClientTest\obj\Debug\ClientTest.exe
+D:\MyResources\Socket\NTCPMSG\ClientTest\obj\Debug\ClientTest.pdb

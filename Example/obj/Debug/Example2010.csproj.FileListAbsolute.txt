@@ -1,0 +1,12 @@
+D:\MyResources\Socket\NTCPMSG\Bin\DotNet4.0\Debug\Example.exe.config
+D:\MyResources\Socket\NTCPMSG\Bin\DotNet4.0\Debug\Example.exe
+D:\MyResources\Socket\NTCPMSG\Bin\DotNet4.0\Debug\Example.pdb
+D:\MyResources\Socket\NTCPMSG\Example\obj\Debug\ResolveAssemblyReference.cache
+D:\MyResources\Socket\NTCPMSG\Example\obj\Debug\Example.exe
+D:\MyResources\Socket\NTCPMSG\Example\obj\Debug\Example.pdb
+D:\Bin\DotNet4.0\Debug\Example.exe.config
+D:\MyResources\Socket\NTCPMSG\Example\Bin\DotNet4.0\Debug\Example.exe.config
+D:\MyResources\Socket\NTCPMSG\Example\Bin\DotNet4.0\Debug\Example.exe
+D:\MyResources\Socket\NTCPMSG\Example\Bin\DotNet4.0\Debug\Example.pdb
+D:\MyResources\Socket\NTCPMSG\Example\Bin\DotNet4.0\Debug\NTCPMSG.dll
+D:\MyResources\Socket\NTCPMSG\Example\Bin\DotNet4.0\Debug\NTCPMSG.pdb
