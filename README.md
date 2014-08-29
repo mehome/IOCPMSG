@@ -1,4 +1,4 @@
-NTCPMSG
+IOCPMSG
 =======
 this is a project I 'fork' from codeplex:http://ntcpmsg.codeplex.com/SourceControl/latest.
 This project is no longer maintained.I read through the source code for this project many times and I think it is a good ,
